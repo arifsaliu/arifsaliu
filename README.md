@@ -59,8 +59,8 @@
 <br/>
 <div align="center">
   <a href="https://github.com/arifsaliu/resume/blob/main/Arif%20Saliu%20Resume.pdf" target="_blank">
-    <img height="64" style="border:0px;height:64px;" src="YOUR_BUTTON_IMAGE_LINK_HERE" alt="View Resume" />
+    <img height="64" style="border:0px;height:64px;" 
+      src="https://camo.githubusercontent.com/64294debfa11ea355ac5715acc38ee3a59e33034d1ed6645cdcb726286c2cf0b/68747470733a2f2f73746f726167652e6b6f2d66692e636f6d2f63646e2f6b6f6669312e706e673f763d33" 
+      alt="Resume" />
   </a>
 </div>
-
-<br/>
