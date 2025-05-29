@@ -58,7 +58,9 @@
 <hr/>
 <br/>
 <div align="center">
-  <a href="https://github.com/arifsaliu/resume/blob/main/Arif%20Saliu%20Resume.pdf">
-    <img src="https://img.shields.io/badge/RESUME--0b5dcb?style=flat&logo=filedotio&logoColor=FFFFFFF&label=RESUME&labelColor=0b5dcb&color=0b5dcb" />
+  <a href='https://github.com/arifsaliu/resume/blob/main/Arif%20Saliu%20Resume.pdf' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://img.shields.io/badge/RESUME--0b5dcb?style=flat&logo=filedotio&logoColor=FFFFFFF&label=RESUME&labelColor=0b5dcb&color=0b5dcb' border='0' alt='RESUME' />
   </a>
 </div>
+
+<br/>
