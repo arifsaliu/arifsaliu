@@ -58,8 +58,8 @@
 <hr/>
 <br/>
 <div align="center">
-  <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'>
-    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  <a href="https://github.com/arifsaliu/resume/blob/main/Arif%20Saliu%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" alt="View Resume" />
   </a>
 </div>
 <br/>
