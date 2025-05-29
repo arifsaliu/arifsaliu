@@ -59,7 +59,8 @@
 <br/>
 <div align="center">
   <a href="https://github.com/arifsaliu/resume/blob/main/Arif%20Saliu%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF0000" alt="View Resume" />
+    <img height="64" style="border:0px;height:64px;" src="YOUR_BUTTON_IMAGE_LINK_HERE" alt="View Resume" />
   </a>
 </div>
+
 <br/>
