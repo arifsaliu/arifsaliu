@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Arif+Saliu!&color=FF0000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Arif+Saliu!&color=0b5dcb" />
 </h1>
 
 <h3 align="center" style="color:#FF0000">A passionate software developer from Iowa!</h3>
@@ -14,19 +14,19 @@
 
 <div align="center"> 
   <a href="mailto:arifsaliutech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
   </a>
   <a href="https://linkedin.com/in/arifsaliu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/LinkedIn-0b5dcb?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
   </a>
   <a href="https://github.com/arifsaliu" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=FF0000" />
+    <img src="https://img.shields.io/badge/Portfolio-f59800?style=for-the-badge&logo=github&logoColor=FFFFFF" />
   </a>
 </div>
 
 <hr/>
 
-<h2 align="center" style="color:#FF0000">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center" style="color:#0b5dcb">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github" />
@@ -37,9 +37,9 @@
 <hr/>
 
 <div align="center">
-  <h2 style="color:#FF0000">🐍 My Contributions 🐍</h2>
+  <h2 style="color:#0b5dcb">🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arifsaliu/snake/output/github-contribution-grid-snake.svg?color_snake=FF0000&color_dots=000000" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/arifsaliu/snake/output/github-contribution-grid-snake.svg?color_snake=0b5dcb&color_dots=0b5dcb" />
   <br/><br/><br/>
 </div>
 
@@ -48,10 +48,10 @@
 <h2 align="center" style="color:#FF0000">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=arifsaliu&count_private=true&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FF0000&bg_color=000000&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=arifsaliu&theme=dark&stroke=FF0000&ring=FF0000&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF0000&border_radius=10&background=000000" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=arifsaliu&count_private=true&show_icons=true&theme=dark&title_color=d4d4d4&icon_color=d4d4d4&text_color=d4d4d4&bg_color=0b5dcb&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=arifsaliu&theme=dark&stroke=d4d4d4&ring=ababab&currStreakLabel=d4d4d4&sideLabels=d4d4d4&dates=d4d4d4&border_radius=10&background=0b5dcb" alt="streak stats" />
   <br/>
-  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifsaliu&hide=HTML&langs_count=8&layout=compact&theme=dark&title_color=FF0000&text_color=FF0000&bg_color=000000&border_radius=10" alt="top langs" />
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifsaliu&hide=HTML&langs_count=8&layout=compact&theme=dark&title_color=d4d4d4&text_color=d4d4d4&bg_color=0b5dcb&border_radius=10" alt="top langs" />
 </div>
 
 <br/><br/>
