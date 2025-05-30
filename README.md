@@ -40,9 +40,9 @@
   <h2 style="color:#0b5dcb">🔁 My Contributions 🔁</h2>
   <br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifsaliu/arifsaliu/output/github-snake-dark.svg?color_snake=%2300FF00&color_dots=%2300FF00" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifsaliu/arifsaliu/output/github-snake.svg?color_snake=%2300FF00&color_dots=%2300FF00" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/arifsaliu/arifsaliu/output/github-snake.svg?color_snake=%2300FF00&color_dots=%2300FF00" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifsaliu/arifsaliu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifsaliu/arifsaliu/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/arifsaliu/arifsaliu/output/github-snake.svg" />
   </picture>
   
   <br/><br/><br/>
