@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Arif+Saliu!&color=0b5dcb" />
 </h1>
 
-<h3 align="center" style="color:#FF0000">A passionate software developer from Iowa!</h3>
+<h3 align="center" style="color:#FF0000">A passionate PLACEHOLDER from Iowa!</h3>
 <br/>
 <div align="center" style="color:#FF0000; font-family: 'Share Tech Mono', monospace; font-size:18px">
  🔭 I’m currently working on...<br/>
